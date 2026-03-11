@@ -5,3 +5,7 @@ This file simulates infrastructure documentation used by cloud engineers when ma
 Monitoring Setup
 
 This section represents a new monitoring feature for the cloud environment.
+
+Backup Strategy
+
+This section describes backup procedures for cloud infrastructure systems.
