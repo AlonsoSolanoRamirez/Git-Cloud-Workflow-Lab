@@ -1,0 +1,3 @@
+Cloud Infrastructure Notes
+
+This file simulates infrastructure documentation used by cloud engineers when managing environments.
