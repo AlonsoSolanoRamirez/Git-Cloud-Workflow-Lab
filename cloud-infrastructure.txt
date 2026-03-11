@@ -1,3 +1,7 @@
 Cloud Infrastructure Notes
 
 This file simulates infrastructure documentation used by cloud engineers when managing environments.
+
+Monitoring Setup
+
+This section represents a new monitoring feature for the cloud environment.
