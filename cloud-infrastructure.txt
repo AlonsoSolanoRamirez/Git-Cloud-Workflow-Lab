@@ -13,3 +13,7 @@ This section describes backup procedures for cloud infrastructure systems.
 Security Configuration
 
 This section describes firewall and access control for the cloud infrastructure environment.
+
+Temporary Test Configuration
+
+This section simulates a configuration change that will later be rolled back.
